@@ -47,10 +47,10 @@ ol {
 
 li {
   margin: 1em;
-  font-family: 'PT Sans', sans-serif;
 }
 
 a {
+  font-family: 'PT Sans', sans-serif;
   text-decoration: none;
   color: #7620AB;
   vertical-align: middle;
