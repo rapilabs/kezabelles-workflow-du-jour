@@ -38,18 +38,23 @@ h2 {
 }
 
 ol {
+  font-family: 'Poiret One', cursive;
   list-style-position:inside;
   color: #7620AB;
-  font-size: 1.2em;
+  font-size: 1.7em;
+  margin-left: -2em;
 }
 
 li {
   margin: 1em;
+  font-family: 'PT Sans', sans-serif;
 }
 
 a {
   text-decoration: none;
   color: #7620AB;
+  vertical-align: middle;
+  font-size: 0.6em;
 }
 
 /*
